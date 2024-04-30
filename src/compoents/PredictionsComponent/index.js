@@ -1,0 +1,1 @@
+export {PredictionsComponent } from "./PredictionsComponent"
